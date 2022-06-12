@@ -15,7 +15,7 @@ all of the comments are very explanatory so try to read them and understand the 
 my create database name called noisemakers_crude_php_ajax;
 import the file from DB folder to your newly create database noisemakers_crude_php_ajax;
 then copy this folder to either www or htdocs depend on your localhost server that your machine run
-then go your browser and type http://localhost:88/crud_php_ajax/ then your all set you can now test
+then go your browser and type http://localhost/crud_php_ajax/ then your all set you can now test
 
 #### Don't forget you can find the project on github repository at any time
 Use this [repository][] link will take to the project repository where you can clone it and use it or test it
@@ -24,4 +24,4 @@ Use this [repository][] link will take to the project repository where you can c
 Also the project is open-source so you can help on contribute to make it better just check me on my social media account and I will be happy to get contributors 😁😁
 ### You can find me on social media like instagram,facebook,twitter and git hub profile [jasjastone][],[jas de melz][] , [jasja_stone][] [githubprofile][] repectively
 
-Also consinder working with us [trisolvers][]
+#### Also consinder working with us [trisolvers][]
